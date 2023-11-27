@@ -52,17 +52,17 @@ date_stampLastWeek: 2023-11-27
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
+        <td>0</td>
         <td>1</td>
-        <td>1</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #d31c08" >-1</td>
+        <td style="color: #d31c08" >200%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>2</td>
         <td>1</td>
-        <td>1</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #45c527" >1</td>
+        <td style="color: #45c527" >66%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>

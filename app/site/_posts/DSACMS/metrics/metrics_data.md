@@ -24,17 +24,17 @@ date_stampLastWeek: 2023-11-27
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>272</td>
         <td>270</td>
-        <td>227</td>
-        <td style="color: #45c527" >43</td>
-        <td style="color: #45c527" >17%</td>
+        <td style="color: #45c527" >2</td>
+        <td style="color: #45c527" >0%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>
         <td>11</td>
-        <td>9</td>
-        <td style="color: #45c527" >2</td>
-        <td style="color: #45c527" >20%</td>
+        <td>11</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Open Issues</th>
@@ -46,44 +46,44 @@ date_stampLastWeek: 2023-11-27
       <tr>
         <th scope="row">Closed Issues</th>
         <td>3</td>
-        <td>1</td>
-        <td style="color: #45c527" >2</td>
-        <td style="color: #45c527" >100%</td>
-      </tr>
-      <tr>
-        <th scope="row">Open Pull Requests</th>
-        <td>0</td>
-        <td>0</td>
+        <td>3</td>
         <td style="" >0</td>
         <td style="" >0%</td>
       </tr>
       <tr>
-        <th scope="row">Merged Pull Requests</th>
-        <td>43</td>
-        <td>26</td>
-        <td style="color: #45c527" >17</td>
-        <td style="color: #45c527" >49%</td>
-      </tr>
-      <tr>
-        <th scope="row">Closed Pull Requests</th>
-        <td>2</td>
-        <td>1</td>
-        <td style="color: #45c527" >1</td>
-        <td style="color: #45c527" >66%</td>
-      </tr>
-      <tr>
-        <th scope="row">Forks</th>
+        <th scope="row">Open Pull Requests</th>
         <td>1</td>
         <td>0</td>
         <td style="color: #45c527" >1</td>
         <td style="color: #45c527" >200%</td>
       </tr>
       <tr>
+        <th scope="row">Merged Pull Requests</th>
+        <td>44</td>
+        <td>43</td>
+        <td style="color: #45c527" >1</td>
+        <td style="color: #45c527" >2%</td>
+      </tr>
+      <tr>
+        <th scope="row">Closed Pull Requests</th>
+        <td>2</td>
+        <td>2</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
+      </tr>
+      <tr>
+        <th scope="row">Forks</th>
+        <td>1</td>
+        <td>1</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
+      </tr>
+      <tr>
         <th scope="row">Stars</th>
         <td>2</td>
-        <td>1</td>
-        <td style="color: #45c527" >1</td>
-        <td style="color: #45c527" >66%</td>
+        <td>2</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Watchers</th>

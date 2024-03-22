@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for macpro-mdct-mcr | REPORT-2024-03-10
+title: Open Source at CMS Metrics Report for macpro-mdct-mcr | REPORT-2024-03-22
 permalink: /Enterprise-CMCS/macpro-mdct-mcr/
 
 org: Enterprise-CMCS
 repo: macpro-mdct-mcr
-reportID: REPORT-2024-03-10
-date_stampThisWeek: 2024-03-10
-date_stampLastWeek: 2024-03-10
+reportID: REPORT-2024-03-22
+date_stampThisWeek: 2024-03-22
+date_stampLastWeek: 2024-03-22
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,9 +24,9 @@ date_stampLastWeek: 2024-03-10
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>1264</td>
         <td>1254</td>
-        <td>1249</td>
-        <td style="color: #45c527" >5</td>
+        <td style="color: #45c527" >10</td>
         <td style="color: #45c527" >0%</td>
       </tr>
       <tr>
@@ -52,31 +52,31 @@ date_stampLastWeek: 2024-03-10
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
+        <td>3</td>
         <td>4</td>
-        <td>4</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #d31c08" >-1</td>
+        <td style="color: #d31c08" >28%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>1035</td>
         <td>1023</td>
-        <td>1016</td>
-        <td style="color: #45c527" >7</td>
-        <td style="color: #45c527" >0%</td>
+        <td style="color: #45c527" >12</td>
+        <td style="color: #45c527" >1%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>
         <td>212</td>
-        <td>210</td>
-        <td style="color: #45c527" >2</td>
-        <td style="color: #45c527" >0%</td>
+        <td>212</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Forks</th>
+        <td>2</td>
         <td>1</td>
-        <td>1</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #45c527" >1</td>
+        <td style="color: #45c527" >66%</td>
       </tr>
       <tr>
         <th scope="row">Stars</th>
@@ -114,5 +114,10 @@ date_stampLastWeek: 2024-03-10
         <img alt="firstResponseForClosedPR" src="{{ "/assets/img/graphs/Enterprise-CMCS/macpro-mdct-mcr/firstResponseForClosedPR_macpro-mdct-mcr_data.png" | url }}" />
       </figure>
     </div>
+    <!--- Line Complexity Graphs -->
+    <h3>Line Complexity</h3>
+    <figure>
+      <embed type="image/svg+xml" src="{{ "/assets/img/graphs/Enterprise-CMCS/macpro-mdct-mcr/total_line_makeup_macpro-mdct-mcr_data.svg" | url }}" />
+    </figure>
   </div>
 </div>

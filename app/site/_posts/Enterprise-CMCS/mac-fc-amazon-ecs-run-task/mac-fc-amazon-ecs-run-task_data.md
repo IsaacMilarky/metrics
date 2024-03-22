@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for mac-fc-amazon-ecs-run-task | REPORT-2024-03-10
+title: Open Source at CMS Metrics Report for mac-fc-amazon-ecs-run-task | REPORT-2024-03-22
 permalink: /Enterprise-CMCS/mac-fc-amazon-ecs-run-task/
 
 org: Enterprise-CMCS
 repo: mac-fc-amazon-ecs-run-task
-reportID: REPORT-2024-03-10
-date_stampThisWeek: 2024-03-10
-date_stampLastWeek: 2024-03-10
+reportID: REPORT-2024-03-22
+date_stampThisWeek: 2024-03-22
+date_stampLastWeek: 2024-03-22
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -114,5 +114,10 @@ date_stampLastWeek: 2024-03-10
         <img alt="firstResponseForClosedPR" src="{{ "/assets/img/graphs/Enterprise-CMCS/mac-fc-amazon-ecs-run-task/firstResponseForClosedPR_mac-fc-amazon-ecs-run-task_data.png" | url }}" />
       </figure>
     </div>
+    <!--- Line Complexity Graphs -->
+    <h3>Line Complexity</h3>
+    <figure>
+      <embed type="image/svg+xml" src="{{ "/assets/img/graphs/Enterprise-CMCS/mac-fc-amazon-ecs-run-task/total_line_makeup_mac-fc-amazon-ecs-run-task_data.svg" | url }}" />
+    </figure>
   </div>
 </div>

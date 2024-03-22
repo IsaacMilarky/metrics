@@ -14,6 +14,12 @@
     "forks_count": 1,
     "stargazers_count": 0,
     "watchers_count": 7,
+    "total_project_lines": 429,
+    "average_project_lines": 72,
+    "total_project_comment_lines": 29,
+    "average_project_comment_lines": 5,
+    "total_project_blank_lines": 67,
+    "average_blank_lines": 11,
     "commits_by_month": {
         "2023/10": 2,
         "2023/9": 1,

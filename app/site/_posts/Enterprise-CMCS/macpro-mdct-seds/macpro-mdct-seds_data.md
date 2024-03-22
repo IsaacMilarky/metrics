@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for macpro-mdct-seds | REPORT-2024-03-10
+title: Open Source at CMS Metrics Report for macpro-mdct-seds | REPORT-2024-03-22
 permalink: /Enterprise-CMCS/macpro-mdct-seds/
 
 org: Enterprise-CMCS
 repo: macpro-mdct-seds
-reportID: REPORT-2024-03-10
-date_stampThisWeek: 2024-03-10
-date_stampLastWeek: 2024-03-10
+reportID: REPORT-2024-03-22
+date_stampThisWeek: 2024-03-22
+date_stampLastWeek: 2024-03-22
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,9 +24,9 @@ date_stampLastWeek: 2024-03-10
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>2582</td>
         <td>2572</td>
-        <td>2571</td>
-        <td style="color: #45c527" >1</td>
+        <td style="color: #45c527" >10</td>
         <td style="color: #45c527" >0%</td>
       </tr>
       <tr>
@@ -52,17 +52,17 @@ date_stampLastWeek: 2024-03-10
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
+        <td>5</td>
         <td>6</td>
-        <td>4</td>
-        <td style="color: #45c527" >2</td>
-        <td style="color: #45c527" >40%</td>
+        <td style="color: #d31c08" >-1</td>
+        <td style="color: #d31c08" >18%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>730</td>
         <td>720</td>
-        <td>718</td>
-        <td style="color: #45c527" >2</td>
-        <td style="color: #45c527" >0%</td>
+        <td style="color: #45c527" >10</td>
+        <td style="color: #45c527" >1%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>
@@ -114,5 +114,10 @@ date_stampLastWeek: 2024-03-10
         <img alt="firstResponseForClosedPR" src="{{ "/assets/img/graphs/Enterprise-CMCS/macpro-mdct-seds/firstResponseForClosedPR_macpro-mdct-seds_data.png" | url }}" />
       </figure>
     </div>
+    <!--- Line Complexity Graphs -->
+    <h3>Line Complexity</h3>
+    <figure>
+      <embed type="image/svg+xml" src="{{ "/assets/img/graphs/Enterprise-CMCS/macpro-mdct-seds/total_line_makeup_macpro-mdct-seds_data.svg" | url }}" />
+    </figure>
   </div>
 </div>

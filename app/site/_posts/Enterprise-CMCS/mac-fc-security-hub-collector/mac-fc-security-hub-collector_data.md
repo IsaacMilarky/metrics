@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for mac-fc-security-hub-collector | REPORT-2024-03-10
+title: Open Source at CMS Metrics Report for mac-fc-security-hub-collector | REPORT-2024-03-22
 permalink: /Enterprise-CMCS/mac-fc-security-hub-collector/
 
 org: Enterprise-CMCS
 repo: mac-fc-security-hub-collector
-reportID: REPORT-2024-03-10
-date_stampThisWeek: 2024-03-10
-date_stampLastWeek: 2024-03-10
+reportID: REPORT-2024-03-22
+date_stampThisWeek: 2024-03-22
+date_stampLastWeek: 2024-03-22
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -80,17 +80,17 @@ date_stampLastWeek: 2024-03-10
       </tr>
       <tr>
         <th scope="row">Stars</th>
+        <td>5</td>
         <td>4</td>
-        <td>4</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #45c527" >1</td>
+        <td style="color: #45c527" >22%</td>
       </tr>
       <tr>
         <th scope="row">Watchers</th>
+        <td>10</td>
         <td>9</td>
-        <td>9</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #45c527" >1</td>
+        <td style="color: #45c527" >10%</td>
       </tr>
     </tbody>
   </table>
@@ -114,5 +114,10 @@ date_stampLastWeek: 2024-03-10
         <img alt="firstResponseForClosedPR" src="{{ "/assets/img/graphs/Enterprise-CMCS/mac-fc-security-hub-collector/firstResponseForClosedPR_mac-fc-security-hub-collector_data.png" | url }}" />
       </figure>
     </div>
+    <!--- Line Complexity Graphs -->
+    <h3>Line Complexity</h3>
+    <figure>
+      <embed type="image/svg+xml" src="{{ "/assets/img/graphs/Enterprise-CMCS/mac-fc-security-hub-collector/total_line_makeup_mac-fc-security-hub-collector_data.svg" | url }}" />
+    </figure>
   </div>
 </div>

@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for batcave-tf-kms | REPORT-2024-03-10
+title: Open Source at CMS Metrics Report for batcave-tf-kms | REPORT-2024-03-22
 permalink: /CMS-Enterprise/batcave-tf-kms/
 
 org: CMS-Enterprise
 repo: batcave-tf-kms
-reportID: REPORT-2024-03-10
-date_stampThisWeek: 2024-03-10
-date_stampLastWeek: 2024-03-10
+reportID: REPORT-2024-03-22
+date_stampThisWeek: 2024-03-22
+date_stampLastWeek: 2024-03-22
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -114,5 +114,10 @@ date_stampLastWeek: 2024-03-10
         <img alt="firstResponseForClosedPR" src="{{ "/assets/img/graphs/CMS-Enterprise/batcave-tf-kms/firstResponseForClosedPR_batcave-tf-kms_data.png" | url }}" />
       </figure>
     </div>
+    <!--- Line Complexity Graphs -->
+    <h3>Line Complexity</h3>
+    <figure>
+      <embed type="image/svg+xml" src="{{ "/assets/img/graphs/CMS-Enterprise/batcave-tf-kms/total_line_makeup_batcave-tf-kms_data.svg" | url }}" />
+    </figure>
   </div>
 </div>

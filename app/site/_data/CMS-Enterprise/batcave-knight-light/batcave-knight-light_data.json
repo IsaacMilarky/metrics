@@ -3,31 +3,46 @@
     "owner": "CMS-Enterprise",
     "name": "batcave-knight-light",
     "description": "batCAVE knight light demo application",
-    "commits_count": 115,
-    "issues_count": 0,
-    "open_issues_count": 0,
+    "commits_count": 135,
+    "issues_count": 1,
+    "open_issues_count": 1,
     "closed_issues_count": 0,
-    "pull_requests_count": 8,
-    "open_pull_requests_count": 5,
-    "merged_pull_requests_count": 2,
-    "closed_pull_requests_count": 1,
+    "pull_requests_count": 14,
+    "open_pull_requests_count": 6,
+    "merged_pull_requests_count": 5,
+    "closed_pull_requests_count": 3,
     "forks_count": 0,
     "stargazers_count": 0,
     "watchers_count": 8,
+    "total_project_lines": 23665,
+    "average_project_lines": 254,
+    "total_project_comment_lines": 174,
+    "average_project_comment_lines": 2,
+    "total_project_blank_lines": 423,
+    "average_blank_lines": 5,
     "commits_by_month": {
-        "2024/2": 30
+        "2024/3": 20,
+        "2024/2": 10
     },
     "new_commit_contributors_by_day_over_last_month": [
         [
-            "2024-02-14T00:00:00.000Z",
+            "2024-02-23T00:00:00.000Z",
             1
         ],
         [
-            "2024-02-21T00:00:00.000Z",
+            "2024-02-27T00:00:00.000Z",
             1
         ],
         [
-            "2024-02-22T00:00:00.000Z",
+            "2024-03-10T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-03-11T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-03-15T00:00:00.000Z",
             1
         ]
     ],
@@ -50,6 +65,10 @@
         ],
         [
             "2024-02-22T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-03-15T00:00:00.000Z",
             1
         ]
     ],

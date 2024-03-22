@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for macpro-auth | REPORT-2024-03-10
+title: Open Source at CMS Metrics Report for macpro-auth | REPORT-2024-03-22
 permalink: /Enterprise-CMCS/macpro-auth/
 
 org: Enterprise-CMCS
 repo: macpro-auth
-reportID: REPORT-2024-03-10
-date_stampThisWeek: 2024-03-10
-date_stampLastWeek: 2024-03-10
+reportID: REPORT-2024-03-22
+date_stampThisWeek: 2024-03-22
+date_stampLastWeek: 2024-03-22
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -114,5 +114,10 @@ date_stampLastWeek: 2024-03-10
         <img alt="firstResponseForClosedPR" src="{{ "/assets/img/graphs/Enterprise-CMCS/macpro-auth/firstResponseForClosedPR_macpro-auth_data.png" | url }}" />
       </figure>
     </div>
+    <!--- Line Complexity Graphs -->
+    <h3>Line Complexity</h3>
+    <figure>
+      <embed type="image/svg+xml" src="{{ "/assets/img/graphs/Enterprise-CMCS/macpro-auth/total_line_makeup_macpro-auth_data.svg" | url }}" />
+    </figure>
   </div>
 </div>

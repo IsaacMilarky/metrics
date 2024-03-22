@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for batcave-tf-route53 | REPORT-2024-03-10
+title: Open Source at CMS Metrics Report for batcave-tf-route53 | REPORT-2024-03-22
 permalink: /CMS-Enterprise/batcave-tf-route53/
 
 org: CMS-Enterprise
 repo: batcave-tf-route53
-reportID: REPORT-2024-03-10
-date_stampThisWeek: 2024-03-10
-date_stampLastWeek: 2024-03-10
+reportID: REPORT-2024-03-22
+date_stampThisWeek: 2024-03-22
+date_stampLastWeek: 2024-03-22
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -114,5 +114,10 @@ date_stampLastWeek: 2024-03-10
         <img alt="firstResponseForClosedPR" src="{{ "/assets/img/graphs/CMS-Enterprise/batcave-tf-route53/firstResponseForClosedPR_batcave-tf-route53_data.png" | url }}" />
       </figure>
     </div>
+    <!--- Line Complexity Graphs -->
+    <h3>Line Complexity</h3>
+    <figure>
+      <embed type="image/svg+xml" src="{{ "/assets/img/graphs/CMS-Enterprise/batcave-tf-route53/total_line_makeup_batcave-tf-route53_data.svg" | url }}" />
+    </figure>
   </div>
 </div>

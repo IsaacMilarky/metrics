@@ -30,12 +30,8 @@
     },
     "new_commit_contributors_by_day_over_last_month": [
         [
-            "2024-02-24T00:00:00.000Z",
-            2
-        ],
-        [
             "2024-02-26T00:00:00.000Z",
-            1
+            2
         ]
     ],
     "new_commit_contributors_by_day_over_last_six_months": [

@@ -3,14 +3,14 @@
     "owner": "Enterprise-CMCS",
     "name": "managed-care-review",
     "description": null,
-    "commits_count": 1771,
+    "commits_count": 1772,
     "issues_count": 0,
     "open_issues_count": 0,
     "closed_issues_count": 0,
-    "pull_requests_count": 2336,
-    "open_pull_requests_count": 7,
-    "merged_pull_requests_count": 1738,
-    "closed_pull_requests_count": 591,
+    "pull_requests_count": 2337,
+    "open_pull_requests_count": 4,
+    "merged_pull_requests_count": 1739,
+    "closed_pull_requests_count": 594,
     "forks_count": 3,
     "stargazers_count": 10,
     "watchers_count": 13,
@@ -21,12 +21,12 @@
     "total_project_blank_lines": 13198,
     "average_blank_lines": 11,
     "commits_by_month": {
-        "2024/3": 26,
-        "2024/2": 4
+        "2024/3": 27,
+        "2024/2": 3
     },
     "new_commit_contributors_by_day_over_last_month": [
         [
-            "2024-02-23T00:00:00.000Z",
+            "2024-02-26T00:00:00.000Z",
             1
         ],
         [
@@ -52,10 +52,6 @@
     ],
     "new_commit_contributors_by_day_over_last_six_months": [
         [
-            "2023-10-06T00:00:00.000Z",
-            1
-        ],
-        [
             "2023-10-09T00:00:00.000Z",
             1
         ],
@@ -66,6 +62,10 @@
         [
             "2023-10-11T00:00:00.000Z",
             2
+        ],
+        [
+            "2023-10-13T00:00:00.000Z",
+            1
         ],
         [
             "2024-01-17T00:00:00.000Z",

@@ -3,29 +3,29 @@
     "owner": "DSACMS",
     "name": "repo-scaffolder",
     "description": "Templates and commandline tools for creating repositories for US Federal open source projects ",
-    "commits_count": 277,
+    "commits_count": 279,
     "issues_count": 22,
     "open_issues_count": 22,
     "closed_issues_count": 0,
-    "pull_requests_count": 57,
+    "pull_requests_count": 58,
     "open_pull_requests_count": 1,
-    "merged_pull_requests_count": 45,
+    "merged_pull_requests_count": 46,
     "closed_pull_requests_count": 11,
     "forks_count": 2,
-    "stargazers_count": 11,
+    "stargazers_count": 15,
     "watchers_count": 2,
-    "total_project_lines": 3306,
-    "average_project_lines": 55,
+    "total_project_lines": 3326,
+    "average_project_lines": 56,
     "total_project_comment_lines": 5,
     "average_project_comment_lines": 0,
-    "total_project_blank_lines": 767,
+    "total_project_blank_lines": 791,
     "average_blank_lines": 13,
     "commits_by_month": {
         "2024/3": 30
     },
     "new_commit_contributors_by_day_over_last_month": [
         [
-            "2024-02-27T00:00:00.000Z",
+            "2024-03-04T00:00:00.000Z",
             1
         ]
     ],

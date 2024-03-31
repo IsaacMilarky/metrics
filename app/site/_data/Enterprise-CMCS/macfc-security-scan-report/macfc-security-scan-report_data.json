@@ -14,12 +14,12 @@
     "forks_count": 0,
     "stargazers_count": 1,
     "watchers_count": 4,
-    "total_project_lines": 11872,
-    "average_project_lines": 791,
+    "total_project_lines": 11943,
+    "average_project_lines": 796,
     "total_project_comment_lines": 1779,
     "average_project_comment_lines": 119,
-    "total_project_blank_lines": 1730,
-    "average_blank_lines": 115,
+    "total_project_blank_lines": 1741,
+    "average_blank_lines": 116,
     "commits_by_month": {
         "2024/3": 7,
         "2024/2": 16,
@@ -28,18 +28,6 @@
         "2023/9": 4
     },
     "new_commit_contributors_by_day_over_last_month": [
-        [
-            "2024-02-27T00:00:00.000Z",
-            2
-        ],
-        [
-            "2024-02-28T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-03-01T00:00:00.000Z",
-            1
-        ],
         [
             "2024-03-03T00:00:00.000Z",
             1

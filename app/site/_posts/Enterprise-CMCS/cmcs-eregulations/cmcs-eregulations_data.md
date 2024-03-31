@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for cmcs-eregulations | REPORT-2024-03-24
+title: Open Source at CMS Metrics Report for cmcs-eregulations | REPORT-2024-03-31
 permalink: /Enterprise-CMCS/cmcs-eregulations/
 
 org: Enterprise-CMCS
 repo: cmcs-eregulations
-reportID: REPORT-2024-03-24
-date_stampThisWeek: 2024-03-24
-date_stampLastWeek: 2024-03-24
+reportID: REPORT-2024-03-31
+date_stampThisWeek: 2024-03-31
+date_stampLastWeek: 2024-03-31
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,10 +24,10 @@ date_stampLastWeek: 2024-03-24
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>1013</td>
         <td>1009</td>
-        <td>1009</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #45c527" >4</td>
+        <td style="color: #45c527" >0%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>
@@ -59,10 +59,10 @@ date_stampLastWeek: 2024-03-24
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>1008</td>
         <td>1004</td>
-        <td>1004</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #45c527" >4</td>
+        <td style="color: #45c527" >0%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>

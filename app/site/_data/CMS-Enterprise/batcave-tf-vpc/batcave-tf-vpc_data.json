@@ -7,8 +7,8 @@
     "issues_count": 0,
     "open_issues_count": 0,
     "closed_issues_count": 0,
-    "pull_requests_count": 31,
-    "open_pull_requests_count": 1,
+    "pull_requests_count": 32,
+    "open_pull_requests_count": 2,
     "merged_pull_requests_count": 25,
     "closed_pull_requests_count": 5,
     "forks_count": 1,
@@ -38,10 +38,6 @@
     },
     "new_commit_contributors_by_day_over_last_month": [],
     "new_commit_contributors_by_day_over_last_six_months": [
-        [
-            "2023-10-17T00:00:00.000Z",
-            1
-        ],
         [
             "2023-10-26T00:00:00.000Z",
             1

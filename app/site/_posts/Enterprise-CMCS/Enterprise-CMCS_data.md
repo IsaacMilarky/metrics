@@ -1,12 +1,12 @@
 ---
 layout: org-report
-title: Open Source at CMS Metrics Report for Enterprise-CMCS | REPORT-2024-03-31
+title: Open Source at CMS Metrics Report for Enterprise-CMCS | REPORT-2024-04-07
 permalink: /Enterprise-CMCS/
 
 org: Enterprise-CMCS
-reportID: REPORT-2024-03-31
-date_stampThisWeek: 2024-03-31
-date_stampLastWeek: 2024-03-31
+reportID: REPORT-2024-04-07
+date_stampThisWeek: 2024-04-07
+date_stampLastWeek: 2024-04-07
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -23,9 +23,9 @@ date_stampLastWeek: 2024-03-31
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>27903</td>
         <td>27829</td>
-        <td>27771</td>
-        <td style="color: #45c527" >58</td>
+        <td style="color: #45c527" >74</td>
         <td style="color: #45c527" >0%</td>
       </tr>
       <tr>
@@ -51,23 +51,23 @@ date_stampLastWeek: 2024-03-31
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
+        <td>153</td>
         <td>150</td>
-        <td>158</td>
-        <td style="color: #d31c08" >-8</td>
-        <td style="color: #d31c08" >5%</td>
+        <td style="color: #45c527" >3</td>
+        <td style="color: #45c527" >1%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>11631</td>
         <td>11568</td>
-        <td>11502</td>
-        <td style="color: #45c527" >66</td>
+        <td style="color: #45c527" >63</td>
         <td style="color: #45c527" >0%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>
+        <td>3047</td>
         <td>3036</td>
-        <td>3011</td>
-        <td style="color: #45c527" >25</td>
+        <td style="color: #45c527" >11</td>
         <td style="color: #45c527" >0%</td>
       </tr>
       <tr>

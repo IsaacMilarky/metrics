@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for ab2d | REPORT-2024-06-16
+title: Open Source at CMS Metrics Report for ab2d | REPORT-2024-06-23
 permalink: /CMSgov/ab2d/
 
 org: CMSgov
 repo: ab2d
-reportID: REPORT-2024-06-16
-date_stampThisWeek: 2024-06-16
-date_stampLastWeek: 2024-06-16
+reportID: REPORT-2024-06-23
+date_stampThisWeek: 2024-06-23
+date_stampLastWeek: 2024-06-23
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,10 +24,10 @@ date_stampLastWeek: 2024-06-16
     <tbody>
       <tr>
         <th scope="row">Commits</th>
-        <td>880</td>
-        <td>880</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td>882</td>
+        <td>881</td>
+        <td style="color: #45c527" >1</td>
+        <td style="color: #45c527" >0.11%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>
@@ -52,22 +52,22 @@ date_stampLastWeek: 2024-06-16
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
-        <td>17</td>
-        <td>13</td>
-        <td style="" >4</td>
-        <td style="" >27%</td>
-      </tr>
-      <tr>
-        <th scope="row">Merged Pull Requests</th>
-        <td>884</td>
-        <td>884</td>
+        <td>16</td>
+        <td>16</td>
         <td style="" >0</td>
         <td style="" >0%</td>
       </tr>
       <tr>
+        <th scope="row">Merged Pull Requests</th>
+        <td>886</td>
+        <td>885</td>
+        <td style="color: #45c527" >1</td>
+        <td style="color: #45c527" >0.11%</td>
+      </tr>
+      <tr>
         <th scope="row">Closed Pull Requests</th>
-        <td>448</td>
-        <td>448</td>
+        <td>449</td>
+        <td>449</td>
         <td style="" >0</td>
         <td style="" >0%</td>
       </tr>
@@ -88,9 +88,9 @@ date_stampLastWeek: 2024-06-16
       <tr>
         <th scope="row">Watchers</th>
         <td>17</td>
-        <td>16</td>
-        <td style="color: #45c527" >1</td>
-        <td style="color: #45c527" >6.1%</td>
+        <td>17</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
     </tbody>
   </table>

@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for mac-fc-security-hub-visibility | REPORT-2024-06-16
+title: Open Source at CMS Metrics Report for mac-fc-security-hub-visibility | REPORT-2024-06-23
 permalink: /Enterprise-CMCS/mac-fc-security-hub-visibility/
 
 org: Enterprise-CMCS
 repo: mac-fc-security-hub-visibility
-reportID: REPORT-2024-06-16
-date_stampThisWeek: 2024-06-16
-date_stampLastWeek: 2024-06-16
+reportID: REPORT-2024-06-23
+date_stampThisWeek: 2024-06-23
+date_stampLastWeek: 2024-06-23
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,8 +24,8 @@ date_stampLastWeek: 2024-06-16
     <tbody>
       <tr>
         <th scope="row">Commits</th>
-        <td>14</td>
-        <td>14</td>
+        <td>15</td>
+        <td>15</td>
         <td style="" >0</td>
         <td style="" >0%</td>
       </tr>
@@ -59,8 +59,8 @@ date_stampLastWeek: 2024-06-16
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
-        <td>7</td>
-        <td>7</td>
+        <td>8</td>
+        <td>8</td>
         <td style="" >0</td>
         <td style="" >0%</td>
       </tr>

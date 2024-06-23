@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for dpc-static-site | REPORT-2024-06-16
+title: Open Source at CMS Metrics Report for dpc-static-site | REPORT-2024-06-23
 permalink: /CMSgov/dpc-static-site/
 
 org: CMSgov
 repo: dpc-static-site
-reportID: REPORT-2024-06-16
-date_stampThisWeek: 2024-06-16
-date_stampLastWeek: 2024-06-16
+reportID: REPORT-2024-06-23
+date_stampThisWeek: 2024-06-23
+date_stampLastWeek: 2024-06-23
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,8 +24,8 @@ date_stampLastWeek: 2024-06-16
     <tbody>
       <tr>
         <th scope="row">Commits</th>
-        <td>97</td>
-        <td>97</td>
+        <td>99</td>
+        <td>99</td>
         <td style="" >0</td>
         <td style="" >0%</td>
       </tr>
@@ -52,15 +52,15 @@ date_stampLastWeek: 2024-06-16
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
-        <td>4</td>
         <td>2</td>
-        <td style="" >2</td>
-        <td style="" >67%</td>
+        <td>2</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
-        <td>96</td>
-        <td>96</td>
+        <td>98</td>
+        <td>98</td>
         <td style="" >0</td>
         <td style="" >0%</td>
       </tr>

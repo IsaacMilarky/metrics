@@ -3,13 +3,13 @@
     "owner": "Enterprise-CMCS",
     "name": "macpro-mdct-carts",
     "description": "CARTS is the CMCS MDCT application for collecting state data related to coverage of CHIP state plans on an annual basis. The collected data assists CMCS in monitoring, managing, and better understanding Medicaid and CHIP programs.",
-    "commits_count": 3924,
+    "commits_count": 3925,
     "issues_count": 0,
     "open_issues_count": 0,
     "closed_issues_count": 0,
-    "pull_requests_count": 1533,
-    "open_pull_requests_count": 0,
-    "merged_pull_requests_count": 1230,
+    "pull_requests_count": 1536,
+    "open_pull_requests_count": 2,
+    "merged_pull_requests_count": 1231,
     "closed_pull_requests_count": 303,
     "forks_count": 1,
     "stargazers_count": 4,
@@ -21,8 +21,8 @@
     "total_project_blank_lines": 3358,
     "average_blank_lines": 8,
     "commits_by_month": {
-        "2024/6": 24,
-        "2024/5": 6
+        "2024/6": 25,
+        "2024/5": 5
     },
     "new_commit_contributors_by_day_over_last_month": [
         [

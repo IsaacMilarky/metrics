@@ -3,14 +3,14 @@
     "owner": "Enterprise-CMCS",
     "name": "managed-care-review",
     "description": null,
-    "commits_count": 1902,
+    "commits_count": 1908,
     "issues_count": 0,
     "open_issues_count": 0,
     "closed_issues_count": 0,
-    "pull_requests_count": 2523,
-    "open_pull_requests_count": 9,
-    "merged_pull_requests_count": 1870,
-    "closed_pull_requests_count": 644,
+    "pull_requests_count": 2536,
+    "open_pull_requests_count": 6,
+    "merged_pull_requests_count": 1876,
+    "closed_pull_requests_count": 654,
     "forks_count": 3,
     "stargazers_count": 10,
     "watchers_count": 13,
@@ -25,20 +25,12 @@
     },
     "new_commit_contributors_by_day_over_last_month": [
         [
-            "2024-05-28T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-05-29T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-05-30T00:00:00.000Z",
-            1
+            "2024-06-03T00:00:00.000Z",
+            2
         ],
         [
             "2024-06-04T00:00:00.000Z",
-            1
+            2
         ],
         [
             "2024-06-11T00:00:00.000Z",
@@ -47,15 +39,7 @@
     ],
     "new_commit_contributors_by_day_over_last_six_months": [
         [
-            "2024-01-08T00:00:00.000Z",
-            3
-        ],
-        [
-            "2024-01-09T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-01-10T00:00:00.000Z",
+            "2024-01-16T00:00:00.000Z",
             1
         ],
         [
@@ -63,7 +47,23 @@
             1
         ],
         [
+            "2024-01-18T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-01-23T00:00:00.000Z",
+            1
+        ],
+        [
             "2024-01-28T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-01-31T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-02-01T00:00:00.000Z",
             1
         ],
         [

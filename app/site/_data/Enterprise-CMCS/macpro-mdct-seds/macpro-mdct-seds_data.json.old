@@ -3,13 +3,13 @@
     "owner": "Enterprise-CMCS",
     "name": "macpro-mdct-seds",
     "description": "SEDS is the CMCS MDCT application for collecting state data related to Medicaid and CHIP quarterly enrollment data on a quarterly basis. The collected data assists CMCS in monitoring, managing, and better understanding Medicaid and CHIP programs.",
-    "commits_count": 2646,
+    "commits_count": 2648,
     "issues_count": 0,
     "open_issues_count": 0,
     "closed_issues_count": 0,
-    "pull_requests_count": 945,
-    "open_pull_requests_count": 1,
-    "merged_pull_requests_count": 792,
+    "pull_requests_count": 949,
+    "open_pull_requests_count": 2,
+    "merged_pull_requests_count": 795,
     "closed_pull_requests_count": 152,
     "forks_count": 2,
     "stargazers_count": 3,
@@ -21,8 +21,8 @@
     "total_project_blank_lines": 2731,
     "average_blank_lines": 6,
     "commits_by_month": {
-        "2024/6": 25,
-        "2024/5": 5
+        "2024/6": 27,
+        "2024/5": 3
     },
     "new_commit_contributors_by_day_over_last_month": [
         [

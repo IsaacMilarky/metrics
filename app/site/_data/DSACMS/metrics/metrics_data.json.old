@@ -3,13 +3,13 @@
     "owner": "DSACMS",
     "name": "metrics",
     "description": "Experimentations in Open Source Repository Metrics",
-    "commits_count": 874,
+    "commits_count": 886,
     "issues_count": 32,
     "open_issues_count": 22,
     "closed_issues_count": 10,
-    "pull_requests_count": 129,
+    "pull_requests_count": 130,
     "open_pull_requests_count": 7,
-    "merged_pull_requests_count": 111,
+    "merged_pull_requests_count": 112,
     "closed_pull_requests_count": 11,
     "forks_count": 2,
     "stargazers_count": 6,
@@ -21,8 +21,8 @@
     "total_project_blank_lines": 665,
     "average_blank_lines": 1,
     "commits_by_month": {
-        "2024/6": 16,
-        "2024/5": 14
+        "2024/6": 28,
+        "2024/5": 2
     },
     "new_commit_contributors_by_day_over_last_month": [
         [

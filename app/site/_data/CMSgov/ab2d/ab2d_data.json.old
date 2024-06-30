@@ -3,13 +3,13 @@
     "owner": "CMSgov",
     "name": "ab2d",
     "description": "Claims Data to Part D Sponsors API",
-    "commits_count": 881,
+    "commits_count": 882,
     "issues_count": 0,
     "open_issues_count": 0,
     "closed_issues_count": 0,
-    "pull_requests_count": 1350,
+    "pull_requests_count": 1351,
     "open_pull_requests_count": 16,
-    "merged_pull_requests_count": 885,
+    "merged_pull_requests_count": 886,
     "closed_pull_requests_count": 449,
     "forks_count": 2,
     "stargazers_count": 7,
@@ -21,29 +21,21 @@
     "total_project_blank_lines": 7033,
     "average_blank_lines": 16,
     "commits_by_month": {
-        "2024/6": 2,
+        "2024/6": 3,
         "2024/5": 8,
         "2024/4": 5,
         "2024/3": 2,
         "2024/2": 5,
         "2024/1": 6,
-        "2023/12": 2
+        "2023/12": 1
     },
     "new_commit_contributors_by_day_over_last_month": [
-        [
-            "2024-05-25T00:00:00.000Z",
-            1
-        ],
         [
             "2024-06-07T00:00:00.000Z",
             1
         ]
     ],
     "new_commit_contributors_by_day_over_last_six_months": [
-        [
-            "2024-01-05T00:00:00.000Z",
-            1
-        ],
         [
             "2024-01-17T00:00:00.000Z",
             1

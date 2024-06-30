@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for beneficiary-fhir-data | REPORT-2024-06-23
+title: Open Source at CMS Metrics Report for beneficiary-fhir-data | REPORT-2024-06-30
 permalink: /CMSgov/beneficiary-fhir-data/
 
 org: CMSgov
 repo: beneficiary-fhir-data
-reportID: REPORT-2024-06-23
-date_stampThisWeek: 2024-06-23
-date_stampLastWeek: 2024-06-23
+reportID: REPORT-2024-06-30
+date_stampThisWeek: 2024-06-30
+date_stampLastWeek: 2024-06-30
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,10 +24,10 @@ date_stampLastWeek: 2024-06-23
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>5141</td>
         <td>5134</td>
-        <td>5133</td>
-        <td style="color: #45c527" >1</td>
-        <td style="color: #45c527" >0.019%</td>
+        <td style="color: #45c527" >7</td>
+        <td style="color: #45c527" >0.14%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>
@@ -52,17 +52,17 @@ date_stampLastWeek: 2024-06-23
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
-        <td>20</td>
         <td>19</td>
-        <td style="" >1</td>
-        <td style="" >5.1%</td>
+        <td>20</td>
+        <td style="color: #45c527" >-1</td>
+        <td style="color: #45c527" >5.1%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>1861</td>
         <td>1856</td>
-        <td>1855</td>
-        <td style="color: #45c527" >1</td>
-        <td style="color: #45c527" >0.054%</td>
+        <td style="color: #45c527" >5</td>
+        <td style="color: #45c527" >0.27%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>
@@ -87,10 +87,10 @@ date_stampLastWeek: 2024-06-23
       </tr>
       <tr>
         <th scope="row">Watchers</th>
+        <td>30</td>
         <td>29</td>
-        <td>29</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #45c527" >1</td>
+        <td style="color: #45c527" >3.4%</td>
       </tr>
     </tbody>
   </table>

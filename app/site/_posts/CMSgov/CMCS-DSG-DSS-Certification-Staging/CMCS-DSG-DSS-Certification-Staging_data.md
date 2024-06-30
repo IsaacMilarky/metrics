@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for CMCS-DSG-DSS-Certification-Staging | REPORT-2024-06-23
+title: Open Source at CMS Metrics Report for CMCS-DSG-DSS-Certification-Staging | REPORT-2024-06-30
 permalink: /CMSgov/CMCS-DSG-DSS-Certification-Staging/
 
 org: CMSgov
 repo: CMCS-DSG-DSS-Certification-Staging
-reportID: REPORT-2024-06-23
-date_stampThisWeek: 2024-06-23
-date_stampLastWeek: 2024-06-23
+reportID: REPORT-2024-06-30
+date_stampThisWeek: 2024-06-30
+date_stampLastWeek: 2024-06-30
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,10 +24,10 @@ date_stampLastWeek: 2024-06-23
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>997</td>
         <td>986</td>
-        <td>986</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #45c527" >11</td>
+        <td style="color: #45c527" >1.1%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>
@@ -59,10 +59,10 @@ date_stampLastWeek: 2024-06-23
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>119</td>
         <td>115</td>
-        <td>115</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #45c527" >4</td>
+        <td style="color: #45c527" >3.4%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>

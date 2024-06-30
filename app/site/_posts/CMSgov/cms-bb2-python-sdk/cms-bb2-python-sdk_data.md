@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for cms-bb2-python-sdk | REPORT-2024-06-23
+title: Open Source at CMS Metrics Report for cms-bb2-python-sdk | REPORT-2024-06-30
 permalink: /CMSgov/cms-bb2-python-sdk/
 
 org: CMSgov
 repo: cms-bb2-python-sdk
-reportID: REPORT-2024-06-23
-date_stampThisWeek: 2024-06-23
-date_stampLastWeek: 2024-06-23
+reportID: REPORT-2024-06-30
+date_stampThisWeek: 2024-06-30
+date_stampLastWeek: 2024-06-30
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">

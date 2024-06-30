@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for T-MSIS-Data-Quality-Measures-Generation-Code | REPORT-2024-06-23
+title: Open Source at CMS Metrics Report for T-MSIS-Data-Quality-Measures-Generation-Code | REPORT-2024-06-30
 permalink: /CMSgov/T-MSIS-Data-Quality-Measures-Generation-Code/
 
 org: CMSgov
 repo: T-MSIS-Data-Quality-Measures-Generation-Code
-reportID: REPORT-2024-06-23
-date_stampThisWeek: 2024-06-23
-date_stampLastWeek: 2024-06-23
+reportID: REPORT-2024-06-30
+date_stampThisWeek: 2024-06-30
+date_stampLastWeek: 2024-06-30
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,10 +24,10 @@ date_stampLastWeek: 2024-06-23
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>164</td>
         <td>159</td>
-        <td>159</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #45c527" >5</td>
+        <td style="color: #45c527" >3.1%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>

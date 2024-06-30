@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for bluebutton-web-server | REPORT-2024-06-23
+title: Open Source at CMS Metrics Report for bluebutton-web-server | REPORT-2024-06-30
 permalink: /CMSgov/bluebutton-web-server/
 
 org: CMSgov
 repo: bluebutton-web-server
-reportID: REPORT-2024-06-23
-date_stampThisWeek: 2024-06-23
-date_stampLastWeek: 2024-06-23
+reportID: REPORT-2024-06-30
+date_stampThisWeek: 2024-06-30
+date_stampLastWeek: 2024-06-30
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -52,10 +52,10 @@ date_stampLastWeek: 2024-06-23
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
+        <td>10</td>
         <td>7</td>
-        <td>6</td>
-        <td style="" >1</td>
-        <td style="" >15%</td>
+        <td style="" >3</td>
+        <td style="" >35%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>

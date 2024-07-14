@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for hpt-validator | REPORT-2024-07-07
+title: Open Source at CMS Metrics Report for hpt-validator | REPORT-2024-07-14
 permalink: /CMSgov/hpt-validator/
 
 org: CMSgov
 repo: hpt-validator
-reportID: REPORT-2024-07-07
-date_stampThisWeek: 2024-07-07
-date_stampLastWeek: 2024-07-07
+reportID: REPORT-2024-07-14
+date_stampThisWeek: 2024-07-14
+date_stampLastWeek: 2024-07-14
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">

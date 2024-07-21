@@ -3,51 +3,44 @@
     "owner": "Enterprise-CMCS",
     "name": "managed-care-review",
     "description": null,
-    "commits_count": 1908,
+    "commits_count": 1917,
     "issues_count": 0,
     "open_issues_count": 0,
     "closed_issues_count": 0,
-    "pull_requests_count": 2536,
-    "open_pull_requests_count": 6,
-    "merged_pull_requests_count": 1876,
-    "closed_pull_requests_count": 654,
+    "pull_requests_count": 2553,
+    "open_pull_requests_count": 10,
+    "merged_pull_requests_count": 1885,
+    "closed_pull_requests_count": 658,
     "forks_count": 3,
     "stargazers_count": 10,
     "watchers_count": 13,
-    "total_project_lines": 144791,
-    "average_project_lines": 117,
-    "total_project_comment_lines": 6760,
-    "average_project_comment_lines": 5,
-    "total_project_blank_lines": 13992,
+    "total_project_lines": 146386,
+    "average_project_lines": 118,
+    "total_project_comment_lines": 6824,
+    "average_project_comment_lines": 6,
+    "total_project_blank_lines": 14105,
     "average_blank_lines": 11,
     "commits_by_month": {
-        "2024/6": 30
+        "2024/7": 9,
+        "2024/6": 21
     },
     "new_commit_contributors_by_day_over_last_month": [
         [
-            "2024-06-03T00:00:00.000Z",
-            2
-        ],
-        [
-            "2024-06-04T00:00:00.000Z",
-            2
+            "2024-06-10T00:00:00.000Z",
+            3
         ],
         [
             "2024-06-11T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-06-21T00:00:00.000Z",
             1
         ]
     ],
     "new_commit_contributors_by_day_over_last_six_months": [
         [
-            "2024-01-16T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-01-17T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-01-18T00:00:00.000Z",
+            "2024-01-22T00:00:00.000Z",
             1
         ],
         [
@@ -55,7 +48,15 @@
             1
         ],
         [
+            "2024-01-25T00:00:00.000Z",
+            1
+        ],
+        [
             "2024-01-28T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-01-29T00:00:00.000Z",
             1
         ],
         [

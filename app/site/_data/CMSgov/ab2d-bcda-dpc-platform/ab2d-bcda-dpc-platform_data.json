@@ -3,55 +3,44 @@
     "owner": "CMSgov",
     "name": "ab2d-bcda-dpc-platform",
     "description": "Platform team code for supporting AB2D, BCDA, and DPC.",
-    "commits_count": 102,
+    "commits_count": 103,
     "issues_count": 0,
     "open_issues_count": 0,
     "closed_issues_count": 0,
-    "pull_requests_count": 101,
-    "open_pull_requests_count": 3,
-    "merged_pull_requests_count": 92,
-    "closed_pull_requests_count": 6,
+    "pull_requests_count": 104,
+    "open_pull_requests_count": 4,
+    "merged_pull_requests_count": 93,
+    "closed_pull_requests_count": 7,
     "forks_count": 0,
     "stargazers_count": 0,
     "watchers_count": 8,
-    "total_project_lines": 59183,
-    "average_project_lines": 493,
-    "total_project_comment_lines": 882,
+    "total_project_lines": 59342,
+    "average_project_lines": 475,
+    "total_project_comment_lines": 881,
     "average_project_comment_lines": 7,
-    "total_project_blank_lines": 5865,
-    "average_blank_lines": 49,
+    "total_project_blank_lines": 5883,
+    "average_blank_lines": 47,
     "commits_by_month": {
+        "2024/7": 1,
         "2024/6": 13,
         "2024/5": 3,
         "2024/4": 6,
-        "2024/3": 8
+        "2024/3": 7
     },
     "new_commit_contributors_by_day_over_last_month": [
         [
-            "2024-06-06T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-06-10T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-06-12T00:00:00.000Z",
-            2
-        ],
-        [
-            "2024-06-14T00:00:00.000Z",
+            "2024-06-26T00:00:00.000Z",
             1
         ]
     ],
     "new_commit_contributors_by_day_over_last_six_months": [
         [
-            "2024-01-17T00:00:00.000Z",
+            "2024-02-07T00:00:00.000Z",
             1
         ],
         [
-            "2024-01-24T00:00:00.000Z",
-            2
+            "2024-02-12T00:00:00.000Z",
+            1
         ],
         [
             "2024-03-10T00:00:00.000Z",

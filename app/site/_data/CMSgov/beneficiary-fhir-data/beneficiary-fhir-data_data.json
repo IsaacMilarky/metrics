@@ -3,75 +3,64 @@
     "owner": "CMSgov",
     "name": "beneficiary-fhir-data",
     "description": null,
-    "commits_count": 5141,
+    "commits_count": 5166,
     "issues_count": 4,
     "open_issues_count": 0,
     "closed_issues_count": 4,
-    "pull_requests_count": 2330,
-    "open_pull_requests_count": 19,
-    "merged_pull_requests_count": 1861,
-    "closed_pull_requests_count": 450,
-    "forks_count": 32,
-    "stargazers_count": 55,
-    "watchers_count": 30,
-    "total_project_lines": 847915,
-    "average_project_lines": 262,
-    "total_project_comment_lines": 58788,
+    "pull_requests_count": 2346,
+    "open_pull_requests_count": 16,
+    "merged_pull_requests_count": 1878,
+    "closed_pull_requests_count": 452,
+    "forks_count": 33,
+    "stargazers_count": 56,
+    "watchers_count": 31,
+    "total_project_lines": 832924,
+    "average_project_lines": 267,
+    "total_project_comment_lines": 56820,
     "average_project_comment_lines": 18,
-    "total_project_blank_lines": 31703,
+    "total_project_blank_lines": 30946,
     "average_blank_lines": 10,
     "commits_by_month": {
-        "2024/6": 30
+        "2024/7": 25,
+        "2024/6": 5
     },
     "new_commit_contributors_by_day_over_last_month": [
         [
-            "2024-06-04T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-06-05T00:00:00.000Z",
+            "2024-06-24T00:00:00.000Z",
             2
         ],
         [
-            "2024-06-06T00:00:00.000Z",
+            "2024-06-25T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-06-27T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-07-09T00:00:00.000Z",
             2
-        ],
-        [
-            "2024-06-11T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-06-12T00:00:00.000Z",
-            1
         ]
     ],
     "new_commit_contributors_by_day_over_last_six_months": [
         [
-            "2024-01-16T00:00:00.000Z",
+            "2024-02-05T00:00:00.000Z",
+            3
+        ],
+        [
+            "2024-02-06T00:00:00.000Z",
             2
         ],
         [
-            "2024-01-17T00:00:00.000Z",
-            2
+            "2024-02-15T00:00:00.000Z",
+            1
         ],
         [
-            "2024-01-18T00:00:00.000Z",
-            2
+            "2024-02-19T00:00:00.000Z",
+            1
         ],
         [
-            "2024-01-19T00:00:00.000Z",
-            2
-        ],
-        [
-            "2024-01-24T00:00:00.000Z",
-            2
-        ],
-        [
-            "2024-01-25T00:00:00.000Z",
-            2
-        ],
-        [
-            "2024-01-26T00:00:00.000Z",
+            "2024-02-22T00:00:00.000Z",
             1
         ],
         [
@@ -80,6 +69,10 @@
         ],
         [
             "2024-03-14T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-03-20T00:00:00.000Z",
             1
         ],
         [
@@ -108,6 +101,10 @@
         ],
         [
             "2024-04-23T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-06-27T00:00:00.000Z",
             1
         ]
     ],

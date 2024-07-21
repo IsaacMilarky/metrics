@@ -3,14 +3,14 @@
     "owner": "CMSgov",
     "name": "easi-app",
     "description": "EASi App",
-    "commits_count": 8800,
+    "commits_count": 8815,
     "issues_count": 1,
     "open_issues_count": 0,
     "closed_issues_count": 1,
-    "pull_requests_count": 2650,
-    "open_pull_requests_count": 6,
-    "merged_pull_requests_count": 2366,
-    "closed_pull_requests_count": 278,
+    "pull_requests_count": 2667,
+    "open_pull_requests_count": 5,
+    "merged_pull_requests_count": 2381,
+    "closed_pull_requests_count": 281,
     "forks_count": 11,
     "stargazers_count": 23,
     "watchers_count": 15,
@@ -25,23 +25,23 @@
     },
     "new_commit_contributors_by_day_over_last_month": [
         [
-            "2024-05-28T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-05-29T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-05-30T00:00:00.000Z",
+            "2024-06-03T00:00:00.000Z",
             2
         ],
         [
-            "2024-05-31T00:00:00.000Z",
+            "2024-06-05T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-06-06T00:00:00.000Z",
             1
         ],
         [
             "2024-06-10T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-06-11T00:00:00.000Z",
             1
         ],
         [
@@ -51,20 +51,16 @@
     ],
     "new_commit_contributors_by_day_over_last_six_months": [
         [
-            "2024-01-08T00:00:00.000Z",
-            1
-        ],
-        [
-            "2024-01-10T00:00:00.000Z",
-            2
-        ],
-        [
             "2024-01-16T00:00:00.000Z",
             1
         ],
         [
             "2024-01-17T00:00:00.000Z",
             1
+        ],
+        [
+            "2024-01-18T00:00:00.000Z",
+            2
         ],
         [
             "2024-01-23T00:00:00.000Z",
@@ -84,6 +80,10 @@
         ],
         [
             "2024-03-04T00:00:00.000Z",
+            1
+        ],
+        [
+            "2024-03-22T00:00:00.000Z",
             1
         ],
         [

@@ -3,52 +3,47 @@
     "owner": "CMSgov",
     "name": "bluebutton-web-server",
     "description": "Blue Button API",
-    "commits_count": 3478,
+    "commits_count": 3486,
     "issues_count": 26,
     "open_issues_count": 0,
     "closed_issues_count": 26,
-    "pull_requests_count": 1186,
-    "open_pull_requests_count": 10,
-    "merged_pull_requests_count": 969,
+    "pull_requests_count": 1197,
+    "open_pull_requests_count": 11,
+    "merged_pull_requests_count": 979,
     "closed_pull_requests_count": 207,
     "forks_count": 24,
     "stargazers_count": 38,
     "watchers_count": 26,
-    "total_project_lines": 175873,
+    "total_project_lines": 175855,
     "average_project_lines": 178,
-    "total_project_comment_lines": 16173,
+    "total_project_comment_lines": 16183,
     "average_project_comment_lines": 16,
-    "total_project_blank_lines": 8963,
+    "total_project_blank_lines": 8965,
     "average_blank_lines": 9,
     "commits_by_month": {
+        "2024/7": 8,
         "2024/6": 5,
         "2024/5": 7,
         "2024/4": 6,
-        "2024/3": 4,
-        "2024/2": 5,
-        "2024/1": 3
+        "2024/3": 4
     },
     "new_commit_contributors_by_day_over_last_month": [
         [
-            "2024-06-03T00:00:00.000Z",
+            "2024-07-03T00:00:00.000Z",
             2
         ],
         [
-            "2024-06-17T00:00:00.000Z",
+            "2024-07-11T00:00:00.000Z",
             1
         ]
     ],
     "new_commit_contributors_by_day_over_last_six_months": [
         [
-            "2024-01-16T00:00:00.000Z",
-            2
-        ],
-        [
-            "2024-01-26T00:00:00.000Z",
+            "2024-02-12T00:00:00.000Z",
             1
         ],
         [
-            "2024-01-31T00:00:00.000Z",
+            "2024-03-14T00:00:00.000Z",
             1
         ],
         [
@@ -66,11 +61,15 @@
         [
             "2024-05-06T00:00:00.000Z",
             1
+        ],
+        [
+            "2024-06-20T00:00:00.000Z",
+            1
         ]
     ],
     "new_issues_by_day_over_last_month": [],
     "new_issues_by_day_over_last_six_months": [],
-    "nadia_shields_badge_url": "https://img.shields.io/static/v1?label=project+type&message=midsize&color=ff0000",
-    "nadia_color": "ff0000",
-    "nadia_badge_name": "midsize"
+    "nadia_shields_badge_url": "https://img.shields.io/static/v1?label=project+type&message=club&color=ff69b4",
+    "nadia_color": "ff69b4",
+    "nadia_badge_name": "club"
 }

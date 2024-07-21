@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for Medicaid-Information-Technology-Architecture-MITA | REPORT-2024-07-14
+title: Open Source at CMS Metrics Report for Medicaid-Information-Technology-Architecture-MITA | REPORT-2024-07-21
 permalink: /CMSgov/Medicaid-Information-Technology-Architecture-MITA/
 
 org: CMSgov
 repo: Medicaid-Information-Technology-Architecture-MITA
-reportID: REPORT-2024-07-14
-date_stampThisWeek: 2024-07-14
-date_stampLastWeek: 2024-07-14
+reportID: REPORT-2024-07-21
+date_stampThisWeek: 2024-07-21
+date_stampLastWeek: 2024-07-21
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,10 +24,10 @@ date_stampLastWeek: 2024-07-14
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>75</td>
         <td>74</td>
-        <td>70</td>
-        <td style="color: #45c527" >4</td>
-        <td style="color: #45c527" >5.6%</td>
+        <td style="color: #45c527" >1</td>
+        <td style="color: #45c527" >1.3%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>

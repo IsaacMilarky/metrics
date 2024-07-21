@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for easi-app | REPORT-2024-07-14
+title: Open Source at CMS Metrics Report for easi-app | REPORT-2024-07-21
 permalink: /CMSgov/easi-app/
 
 org: CMSgov
 repo: easi-app
-reportID: REPORT-2024-07-14
-date_stampThisWeek: 2024-07-14
-date_stampLastWeek: 2024-07-14
+reportID: REPORT-2024-07-21
+date_stampThisWeek: 2024-07-21
+date_stampLastWeek: 2024-07-21
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,10 +24,10 @@ date_stampLastWeek: 2024-07-14
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>8841</td>
         <td>8815</td>
-        <td>8800</td>
-        <td style="color: #45c527" >15</td>
-        <td style="color: #45c527" >0.17%</td>
+        <td style="color: #45c527" >26</td>
+        <td style="color: #45c527" >0.29%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>
@@ -52,45 +52,45 @@ date_stampLastWeek: 2024-07-14
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
-        <td>5</td>
         <td>6</td>
-        <td style="color: #45c527" >-1</td>
-        <td style="color: #45c527" >18%</td>
+        <td>5</td>
+        <td style="" >1</td>
+        <td style="" >18%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>2414</td>
         <td>2381</td>
-        <td>2366</td>
-        <td style="color: #45c527" >15</td>
-        <td style="color: #45c527" >0.63%</td>
+        <td style="color: #45c527" >33</td>
+        <td style="color: #45c527" >1.4%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>
+        <td>288</td>
         <td>281</td>
-        <td>278</td>
-        <td style="" >3</td>
-        <td style="" >1.1%</td>
+        <td style="" >7</td>
+        <td style="" >2.5%</td>
       </tr>
       <tr>
         <th scope="row">Forks</th>
+        <td>0</td>
         <td>11</td>
-        <td>11</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #d31c08" >-11</td>
+        <td style="color: #d31c08" >200%</td>
       </tr>
       <tr>
         <th scope="row">Stars</th>
+        <td>2</td>
         <td>23</td>
-        <td>23</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #d31c08" >-21</td>
+        <td style="color: #d31c08" >170%</td>
       </tr>
       <tr>
         <th scope="row">Watchers</th>
+        <td>3</td>
         <td>15</td>
-        <td>15</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #d31c08" >-12</td>
+        <td style="color: #d31c08" >130%</td>
       </tr>
     </tbody>
   </table>

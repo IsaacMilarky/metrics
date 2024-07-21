@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for bcda-app | REPORT-2024-07-14
+title: Open Source at CMS Metrics Report for bcda-app | REPORT-2024-07-21
 permalink: /CMSgov/bcda-app/
 
 org: CMSgov
 repo: bcda-app
-reportID: REPORT-2024-07-14
-date_stampThisWeek: 2024-07-14
-date_stampLastWeek: 2024-07-14
+reportID: REPORT-2024-07-21
+date_stampThisWeek: 2024-07-21
+date_stampLastWeek: 2024-07-21
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,10 +24,10 @@ date_stampLastWeek: 2024-07-14
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>883</td>
         <td>869</td>
-        <td>868</td>
-        <td style="color: #45c527" >1</td>
-        <td style="color: #45c527" >0.12%</td>
+        <td style="color: #45c527" >14</td>
+        <td style="color: #45c527" >1.6%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>
@@ -52,17 +52,17 @@ date_stampLastWeek: 2024-07-14
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
+        <td>10</td>
         <td>13</td>
-        <td>8</td>
-        <td style="" >5</td>
-        <td style="" >48%</td>
+        <td style="color: #45c527" >-3</td>
+        <td style="color: #45c527" >26%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>883</td>
         <td>869</td>
-        <td>868</td>
-        <td style="color: #45c527" >1</td>
-        <td style="color: #45c527" >0.12%</td>
+        <td style="color: #45c527" >14</td>
+        <td style="color: #45c527" >1.6%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>
@@ -87,10 +87,10 @@ date_stampLastWeek: 2024-07-14
       </tr>
       <tr>
         <th scope="row">Watchers</th>
+        <td>26</td>
         <td>25</td>
-        <td>25</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #45c527" >1</td>
+        <td style="color: #45c527" >3.9%</td>
       </tr>
     </tbody>
   </table>

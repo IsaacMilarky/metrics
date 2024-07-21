@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for ab2d-contracts | REPORT-2024-07-14
+title: Open Source at CMS Metrics Report for ab2d-contracts | REPORT-2024-07-21
 permalink: /CMSgov/ab2d-contracts/
 
 org: CMSgov
 repo: ab2d-contracts
-reportID: REPORT-2024-07-14
-date_stampThisWeek: 2024-07-14
-date_stampLastWeek: 2024-07-14
+reportID: REPORT-2024-07-21
+date_stampThisWeek: 2024-07-21
+date_stampLastWeek: 2024-07-21
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -25,9 +25,9 @@ date_stampLastWeek: 2024-07-14
       <tr>
         <th scope="row">Commits</th>
         <td>75</td>
-        <td>74</td>
-        <td style="color: #45c527" >1</td>
-        <td style="color: #45c527" >1.3%</td>
+        <td>75</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>
@@ -53,16 +53,16 @@ date_stampLastWeek: 2024-07-14
       <tr>
         <th scope="row">Open Pull Requests</th>
         <td>2</td>
-        <td>3</td>
-        <td style="color: #45c527" >-1</td>
-        <td style="color: #45c527" >40%</td>
+        <td>2</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
         <td>20</td>
-        <td>19</td>
-        <td style="color: #45c527" >1</td>
-        <td style="color: #45c527" >5.1%</td>
+        <td>20</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>

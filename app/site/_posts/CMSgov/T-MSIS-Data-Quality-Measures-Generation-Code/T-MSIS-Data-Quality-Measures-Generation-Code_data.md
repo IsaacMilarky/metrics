@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for T-MSIS-Data-Quality-Measures-Generation-Code | REPORT-2024-07-14
+title: Open Source at CMS Metrics Report for T-MSIS-Data-Quality-Measures-Generation-Code | REPORT-2024-07-21
 permalink: /CMSgov/T-MSIS-Data-Quality-Measures-Generation-Code/
 
 org: CMSgov
 repo: T-MSIS-Data-Quality-Measures-Generation-Code
-reportID: REPORT-2024-07-14
-date_stampThisWeek: 2024-07-14
-date_stampLastWeek: 2024-07-14
+reportID: REPORT-2024-07-21
+date_stampThisWeek: 2024-07-21
+date_stampLastWeek: 2024-07-21
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -25,9 +25,9 @@ date_stampLastWeek: 2024-07-14
       <tr>
         <th scope="row">Commits</th>
         <td>164</td>
-        <td>159</td>
-        <td style="color: #45c527" >5</td>
-        <td style="color: #45c527" >3.1%</td>
+        <td>164</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>
@@ -80,10 +80,10 @@ date_stampLastWeek: 2024-07-14
       </tr>
       <tr>
         <th scope="row">Stars</th>
+        <td>16</td>
         <td>15</td>
-        <td>15</td>
-        <td style="" >0</td>
-        <td style="" >0%</td>
+        <td style="color: #45c527" >1</td>
+        <td style="color: #45c527" >6.5%</td>
       </tr>
       <tr>
         <th scope="row">Watchers</th>

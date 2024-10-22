@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for ECTA | REPORT-2024-10-20
+title: Open Source at CMS Metrics Report for ECTA | REPORT-2024-10-22
 permalink: /CMSgov/ECTA/
 
 org: CMSgov
 repo: ECTA
-reportID: REPORT-2024-10-20
-date_stampThisWeek: 2024-10-20
-date_stampLastWeek: 2024-10-20
+reportID: REPORT-2024-10-22
+date_stampThisWeek: 2024-10-22
+date_stampLastWeek: 2024-10-22
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -25,9 +25,9 @@ date_stampLastWeek: 2024-10-20
       <tr>
         <th scope="row">Commits</th>
         <td>163</td>
-        <td>160</td>
-        <td style="color: #45c527" >3</td>
-        <td style="color: #45c527" >1.9%</td>
+        <td>163</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>
@@ -60,9 +60,9 @@ date_stampLastWeek: 2024-10-20
       <tr>
         <th scope="row">Merged Pull Requests</th>
         <td>47</td>
-        <td>46</td>
-        <td style="color: #45c527" >1</td>
-        <td style="color: #45c527" >2.2%</td>
+        <td>47</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>
@@ -111,4 +111,20 @@ date_stampLastWeek: 2024-10-20
       {% assign optionsArray = '1 Month, 6 Month' | split: ',' %}
       {% assign graphsArray = '/CMSgov/ECTA/new_commit_contributors_by_day_over_last_month_ECTA_data.svg, /CMSgov/ECTA/new_commit_contributors_by_day_over_last_six_months_ECTA_data.svg' | split: ',' %}
       {% render "graph-toggle", baseurl: site.baseurl, name: "new-contributors" options: optionsArray, graphs: graphsArray, title: "Number of Contributors Joining per Interval" %}
+    <!-- Languages Graphs - Summary + Predominant -->
+    {% assign optionsArray = 'Summary, Predominant' | split: ',' %}
+    {% assign graphsArray = "/CMSgov/ECTA/language_summary_ECTA_data.svg, /CMSgov/ECTA/predominant_langs_ECTA_data.svg" | split: ',' %}
+    {% render "graph-toggle" baseurl: site.baseurl, name:"language-information" options: optionsArray, graphs: graphsArray, title: "Language Information" %}
+    <!-- Average Issue Resolution Time -->
+    {% render "graph-section" baseurl: site.baseurl, path: "/CMSgov/ECTA/average_issue_resolution_time_ECTA_data.svg", title: "Average Issue Resolution Time" %}
+    <!-- Libyear Timeline Graph -->
+    {% render "graph-section" baseurl: site.baseurl, path: "/CMSgov/ECTA/libyear_timeline_ECTA_data.svg", title: "Dependency Libyears" %}
+    <!-- DRYness Percentages Graph -->
+    {% render "graph-section" baseurl: site.baseurl, path: "/CMSgov/ECTA/DRYness_ECTA_data.svg", title: "DRYness Percentage Graph" %}
+    <!-- Cost Estimate Chart -->
+    {% render "graph-section" baseurl: site.baseurl, path: "/CMSgov/ECTA/estimated_project_costs_ECTA_data.svg", title: "Estimated Costs" %}
+     <!-- Time Estimate Chart -->
+    {% render "graph-section" baseurl: site.baseurl, path: "/CMSgov/ECTA/estimated_project_time_ECTA_data.svg", title: "Estimated Time" %}
+    <!-- Contributor Estimate Chart -->
+    {% render "graph-section" baseurl: site.baseurl, path: "/CMSgov/ECTA/estimated_people_contributing_ECTA_data.svg", title: "Estimated Individual Contributors" %}
 </div>

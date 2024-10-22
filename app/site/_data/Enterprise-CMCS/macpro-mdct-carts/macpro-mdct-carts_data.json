@@ -88,10 +88,10 @@
   "nadia_badge_name": "club",
   "created_at": "2019-12-06T19:56:57Z",
   "ossf_scorecard": {
-    "date": "2024-10-20T08:39:37Z",
+    "date": "2024-10-22T19:17:29Z",
     "repo": {
       "name": "github.com/Enterprise-CMCS/macpro-mdct-carts",
-      "commit": "fc1f31236a8389fe4be359790c46dd909dfcb091"
+      "commit": "d8a1d7242bb07b77aee536409cacf373024527f2"
     },
     "scorecard": {
       "version": "v5.0.0-74-g367426ed",
@@ -272,7 +272,7 @@
       {
         "details": null,
         "score": 0,
-        "reason": "22 existing vulnerabilities detected",
+        "reason": "21 existing vulnerabilities detected",
         "name": "Vulnerabilities",
         "documentation": {
           "url": "https://github.com/ossf/scorecard/blob/367426ed5d9cc62f4944dc4a2174f3bbb5e22169/docs/checks.md#vulnerabilities",

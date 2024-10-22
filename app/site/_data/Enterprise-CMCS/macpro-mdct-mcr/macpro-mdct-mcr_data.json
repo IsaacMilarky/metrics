@@ -96,10 +96,10 @@
   "nadia_badge_name": "midsize",
   "created_at": "2022-03-04T14:51:19Z",
   "ossf_scorecard": {
-    "date": "2024-10-20T08:38:32Z",
+    "date": "2024-10-22T19:16:25Z",
     "repo": {
       "name": "github.com/Enterprise-CMCS/macpro-mdct-mcr",
-      "commit": "198ebca134abd234b1698b93e8385388feb168e7"
+      "commit": "ab1644ee38d980ddb03930f0b41b60dc4755b148"
     },
     "scorecard": {
       "version": "v5.0.0-74-g367426ed",

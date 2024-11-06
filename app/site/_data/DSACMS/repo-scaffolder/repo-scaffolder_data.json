@@ -231,7 +231,7 @@
   "repository_host": "Github.com",
   "maturity_model_tier": "3",
   "ossf_scorecard": {
-    "date": "2024-11-06T20:00:03Z",
+    "date": "2024-11-06T22:47:46Z",
     "repo": {
       "name": "github.com/DSACMS/repo-scaffolder",
       "commit": "9bdda26584f58853caef336f9f62df8a4d2391e1"

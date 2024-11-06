@@ -262,7 +262,7 @@
   },
   "created_at": "2023-07-18T14:10:58Z",
   "ossf_scorecard": {
-    "date": "2024-11-06T19:59:51Z",
+    "date": "2024-11-06T22:47:33Z",
     "repo": {
       "name": "github.com/DSACMS/metrics",
       "commit": "e0054cbb066cf0e9569452da699983339d79d44a"

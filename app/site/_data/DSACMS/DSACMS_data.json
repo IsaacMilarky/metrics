@@ -23,7 +23,7 @@
     "is_verified": false,
     "location": "United States of America",
     "twitter_username": null,
-    "repo_count": 31,
+    "repo_count": 32,
     "followers_count": 24,
     "new_issues_by_day_over_last_month": [],
     "new_issues_by_day_over_last_six_months": [
@@ -100,10 +100,6 @@
             1
         ],
         [
-            "2024-05-21T00:00:00.000Z",
-            4
-        ],
-        [
             "2024-05-23T00:00:00.000Z",
             3
         ],
@@ -152,14 +148,14 @@
             1
         ]
     ],
-    "commits_count": 3758,
+    "commits_count": 3780,
     "issues_count": 188,
-    "open_issues_count": 101,
-    "closed_issues_count": 87,
-    "pull_requests_count": 1008,
-    "open_pull_requests_count": 28,
-    "merged_pull_requests_count": 835,
-    "closed_pull_requests_count": 145,
+    "open_issues_count": 100,
+    "closed_issues_count": 88,
+    "pull_requests_count": 1018,
+    "open_pull_requests_count": 32,
+    "merged_pull_requests_count": 839,
+    "closed_pull_requests_count": 147,
     "forks_count": 23,
     "stargazers_count": 65,
     "watchers_count": 36,

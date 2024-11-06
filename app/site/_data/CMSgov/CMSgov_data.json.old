@@ -208,17 +208,17 @@
             1
         ]
     ],
-    "commits_count": 54181,
-    "issues_count": 979,
-    "open_issues_count": 108,
+    "commits_count": 54222,
+    "issues_count": 980,
+    "open_issues_count": 109,
     "closed_issues_count": 871,
-    "pull_requests_count": 24431,
-    "open_pull_requests_count": 197,
-    "merged_pull_requests_count": 19745,
-    "closed_pull_requests_count": 4489,
-    "forks_count": 578,
-    "stargazers_count": 1445,
-    "watchers_count": 1802,
+    "pull_requests_count": 24470,
+    "open_pull_requests_count": 196,
+    "merged_pull_requests_count": 19779,
+    "closed_pull_requests_count": 4495,
+    "forks_count": 580,
+    "stargazers_count": 1446,
+    "watchers_count": 1806,
     "dependency_libyear_list": [
         [
             "bluebutton-web-server",
@@ -2059,188 +2059,188 @@
         [
             "bluebutton-sample-client-django",
             "Django",
-            5.1808219178,
-            "2024-10-07T20:13:58.000"
+            5.2767123288,
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "PyJWT",
             6.9068493151,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "beautifulsoup4",
             6.701369863,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "certifi",
             7.095890411,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "chardet",
             6.1506849315,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "defusedxml",
             4.0739726027,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "django-bootstrap-form",
             0.6109589041,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "django-localflavor",
             5.8054794521,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "django-settings-export",
             0.0,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "flake8",
             7.0246575342,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "getenv",
             3.504109589,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "idna",
             7.1095890411,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "jdt",
             6.5835616438,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "jsonschema",
             7.4246575342,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "luhn",
             0.0,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "mccabe",
             4.9945205479,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "oauthlib",
             5.1123287671,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "pdt",
             3.9315068493,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "pycodestyle",
             7.5123287671,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "pyflakes",
             6.9863013699,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "pymongo",
             7.1095890411,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "python-social-auth",
             0.0,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "python3-openid",
             3.3479452055,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "pytz",
             7.4547945205,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "requests",
             0.0,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "requests-oauthlib",
             7.104109589,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "six",
             5.5808219178,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "social-auth-app-django",
             7.1890410959,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "social-auth-core",
             6.8794520548,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "urllib3",
             0.0,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "bluebutton-sample-client-django",
             "validate-email",
             0.0,
-            "2024-10-07T20:13:58.000"
+            "2024-11-04T20:15:42.000"
         ],
         [
             "qpp-submissions-schema",
@@ -3025,80 +3025,80 @@
         [
             "bluebutton-css",
             "@cmsgov/design-system",
-            1.9589041096,
-            "2024-10-07T19:49:58.000"
+            2.0356164384,
+            "2024-11-03T23:48:39.000"
         ],
         [
             "bluebutton-css",
             "ansi-regex",
             0.0,
-            "2024-10-07T19:49:58.000"
+            "2024-11-03T23:48:39.000"
         ],
         [
             "bluebutton-css",
             "gulp",
             0.0,
-            "2024-10-07T19:49:58.000"
+            "2024-11-03T23:48:39.000"
         ],
         [
             "bluebutton-css",
             "gulp-clean-css",
             0.0,
-            "2024-10-07T19:49:58.000"
+            "2024-11-03T23:48:39.000"
         ],
         [
             "bluebutton-css",
             "gulp-cli",
             0.0,
-            "2024-10-07T19:49:58.000"
+            "2024-11-03T23:48:39.000"
         ],
         [
             "bluebutton-css",
             "gulp-minify",
             0.0,
-            "2024-10-07T19:49:58.000"
+            "2024-11-03T23:48:39.000"
         ],
         [
             "bluebutton-css",
             "gulp-rename",
             0.0,
-            "2024-10-07T19:49:58.000"
+            "2024-11-03T23:48:39.000"
         ],
         [
             "bluebutton-css",
             "gulp-sass",
             0.0,
-            "2024-10-07T19:49:58.000"
+            "2024-11-03T23:48:39.000"
         ],
         [
             "bluebutton-css",
             "gulp-sourcemaps",
             1.7287671233,
-            "2024-10-07T19:49:58.000"
+            "2024-11-03T23:48:39.000"
         ],
         [
             "bluebutton-css",
             "gulp-wait",
             0.0,
-            "2024-10-07T19:49:58.000"
+            "2024-11-03T23:48:39.000"
         ],
         [
             "bluebutton-css",
             "node-gyp",
             0.0,
-            "2024-10-07T19:49:58.000"
+            "2024-11-03T23:48:39.000"
         ],
         [
             "bluebutton-css",
             "node-sass",
             0.5232876712,
-            "2024-10-07T19:49:58.000"
+            "2024-11-03T23:48:39.000"
         ],
         [
             "bluebutton-css",
             "pump",
             0.0,
-            "2024-10-07T19:49:58.000"
+            "2024-11-03T23:48:39.000"
         ],
         [
             "dpc-app",
@@ -5432,25 +5432,25 @@
             "dpc-static-site",
             "@cmsgov/design-system-core",
             0.0,
-            "2024-10-07T20:00:58.000"
+            "2024-11-03T23:56:11.000"
         ],
         [
             "dpc-static-site",
             "@cmsgov/design-system-layout",
             0.0,
-            "2024-10-07T20:00:58.000"
+            "2024-11-03T23:56:11.000"
         ],
         [
             "dpc-static-site",
             "normalize.css",
             0.0,
-            "2024-10-07T20:00:58.000"
+            "2024-11-03T23:56:11.000"
         ],
         [
             "dpc-static-site",
             "svg4everybody",
             0.0,
-            "2024-10-07T20:00:58.000"
+            "2024-11-03T23:56:11.000"
         ],
         [
             "qpp-shared-logger-node",
@@ -6152,163 +6152,163 @@
             "hcgov-design-system",
             "@babel/core",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "@babel/plugin-proposal-class-properties",
             -0.7698630137,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "@babel/plugin-transform-object-assign",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "@babel/preset-typescript",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "@cmsgov/design-system",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "@cmsgov/design-system-docs",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "@cmsgov/design-system-scripts",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "@cmsgov/eslint-config-design-system",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "@cmsgov/stylelint-config-design-system",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "@types/react",
-            0.0109589041,
-            "2024-10-07T21:28:58.000"
+            0.0684931507,
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "babel-eslint",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "babel-plugin-inline-import",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "babel-plugin-typescript-to-proptypes",
             2.4273972603,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "classnames",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "eslint",
-            4.7917808219,
-            "2024-10-07T21:28:58.000"
+            4.8684931507,
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "gh-pages",
-            2.504109589,
-            "2024-10-07T21:28:58.000"
+            3.304109589,
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "husky",
             2.8931506849,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "i18next",
-            5.6602739726,
-            "2024-10-07T21:28:58.000"
+            5.7178082192,
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "js-cookie",
             3.7150684932,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "lint-staged",
             3.5698630137,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "prettier",
             1.2246575342,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "react",
             3.5315068493,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "react-dom",
             4.7178082192,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "react-i18next",
-            5.6273972603,
-            "2024-10-07T21:28:58.000"
+            5.7287671233,
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "stylelint",
-            3.6054794521,
-            "2024-10-07T21:28:58.000"
+            3.7260273973,
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "url-parse",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "hcgov-design-system",
             "version-bump-prompt",
             0.0,
-            "2024-10-07T21:28:58.000"
+            "2024-11-04T20:52:19.000"
         ],
         [
             "mgov-design-system",
@@ -6969,6 +6969,426 @@
             "wheel",
             2.9506849315,
             "2023-11-29T02:46:00.000"
+        ],
+        [
+            "ars-machine-readable",
+            "anyio",
+            2.4246575342,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "argcomplete",
+            2.7589041096,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "attrs",
+            4.8136986301,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "bcrypt",
+            2.2273972603,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "black",
+            0.0,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "blinker",
+            1.802739726,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "certifi",
+            2.2082191781,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "cffi",
+            2.1835616438,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "chardet",
+            2.6383561644,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "charset-normalizer",
+            2.3068493151,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "click",
+            3.304109589,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "cmarkgfm",
+            2.5397260274,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "compliance-trestle",
+            2.4191780822,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "complianceio",
+            -1.0,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "cryptography",
+            2.5945205479,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "datamodel-code-generator",
+            2.3945205479,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "defusedxml",
+            0.0,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "dnspython",
+            2.5835616438,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "email-validator",
+            2.1369863014,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "et-xmlfile",
+            3.501369863,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "furl",
+            0.0,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "genson",
+            3.7397260274,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "gitdb",
+            1.9863013699,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "gitpython",
+            2.1095890411,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "h11",
+            1.7315068493,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "httpcore",
+            2.3780821918,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "httpx",
+            2.2630136986,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "idna",
+            2.9260273973,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "ilcli",
+            0.0,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "inflect",
+            2.1479452055,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "isodate",
+            2.8219178082,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "isort",
+            2.0931506849,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "jinja2",
+            2.4876712329,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "jsonschema",
+            4.6410958904,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "markupsafe",
+            2.597260274,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "mypy-extensions",
+            3.301369863,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "openapi-schema-validator",
+            1.7671232877,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "openapi-spec-validator",
+            1.7095890411,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "openpyxl",
+            2.1095890411,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "orderedmultidict",
+            0.0,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "orjson",
+            2.2904109589,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "paramiko",
+            2.3342465753,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "pathspec",
+            2.397260274,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "platformdirs",
+            2.4191780822,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "prance",
+            1.8739726027,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "pycparser",
+            2.397260274,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "pydantic",
+            2.3342465753,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "pynacl",
+            0.0,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "pyrsistent",
+            3.1150684932,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "pysnooper",
+            2.4383561644,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "python-dotenv",
+            1.8328767123,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "python-frontmatter",
+            2.8410958904,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "python-slugify",
+            3.6109589041,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "pywin32",
+            2.4493150685,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "pyyaml",
+            3.5424657534,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "requests",
+            1.9178082192,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "rfc3986",
+            0.6767123288,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "rtyaml",
+            0.0,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "ruamel.yaml",
+            1.9835616438,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "ruamel.yaml.clib",
+            3.295890411,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "semver",
+            2.9671232877,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "six",
+            0.0,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "smmap",
+            1.9205479452,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "sniffio",
+            3.3753424658,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "text-unidecode",
+            0.0,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "toml",
+            0.0,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "tomli",
+            2.802739726,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "typed-ast",
+            1.1178082192,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "typing-extensions",
+            1.9369863014,
+            "2024-11-05T21:00:37.000"
+        ],
+        [
+            "ars-machine-readable",
+            "urllib3",
+            2.1835616438,
+            "2024-11-05T21:00:37.000"
         ],
         [
             "serverless-iam-helper",
@@ -8246,151 +8666,151 @@
             "price-transparency-guide-validator",
             "@streamparser/json",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "@streamparser/json-node",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "@types/fs-extra",
             2.1287671233,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "@types/jest",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "@types/node",
-            0.8438356164,
-            "2024-10-07T20:01:01.000"
+            0.9452054795,
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "@types/readline-sync",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "@types/temp",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "@types/yauzl",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "axios",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "chalk",
             3.6383561644,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "commander",
             2.5726027397,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "del-cli",
             3.2301369863,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "eslint",
-            2.6438356164,
-            "2024-10-07T20:01:01.000"
+            2.7205479452,
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "eslint-config-prettier",
             0.3479452055,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "fs-extra",
             1.6164383562,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "jest",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "jest-extended",
             1.695890411,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "nock",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "prettier",
             1.2246575342,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "readline-sync",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "temp",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "ts-jest",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "typescript",
-            1.6082191781,
-            "2024-10-07T20:01:01.000"
+            1.6904109589,
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "winston",
             0.0,
-            "2024-10-07T20:01:01.000"
+            "2024-11-03T23:56:37.000"
         ],
         [
             "price-transparency-guide-validator",
             "yauzl",
-            5.8,
-            "2024-10-07T20:01:01.000"
+            6.3397260274,
+            "2024-11-03T23:56:37.000"
         ],
         [
             "cms-bb2-node-sdk",
@@ -11174,73 +11594,73 @@
             "qpp-eu-data",
             "PyGithub",
             1.8082191781,
-            "2024-10-07T19:46:26.000"
+            "2024-11-03T23:45:40.000"
         ],
         [
             "qpp-eu-data",
             "PyYAML",
             2.8164383562,
-            "2024-10-07T19:46:26.000"
+            "2024-11-03T23:45:40.000"
         ],
         [
             "qpp-eu-data",
             "coverage",
-            1.6273972603,
-            "2024-10-07T19:46:26.000"
+            1.8410958904,
+            "2024-11-03T23:45:40.000"
         ],
         [
             "qpp-eu-data",
             "openpyxl",
             2.1095890411,
-            "2024-10-07T19:46:26.000"
+            "2024-11-03T23:45:40.000"
         ],
         [
             "qpp-eu-data",
             "pandas",
             1.8273972603,
-            "2024-10-07T19:46:26.000"
+            "2024-11-03T23:45:40.000"
         ],
         [
             "qpp-eu-data",
             "pydash",
             1.6410958904,
-            "2024-10-07T19:46:26.000"
+            "2024-11-03T23:45:40.000"
         ],
         [
             "qpp-eu-data",
             "pytest",
             1.8794520548,
-            "2024-10-07T19:46:26.000"
+            "2024-11-03T23:45:40.000"
         ],
         [
             "qpp-eu-data",
             "pytest-cov",
-            1.4876712329,
-            "2024-10-07T19:46:26.000"
+            2.0876712329,
+            "2024-11-03T23:45:40.000"
         ],
         [
             "qpp-eu-data",
             "python-dateutil",
             2.6328767123,
-            "2024-10-07T19:46:26.000"
+            "2024-11-03T23:45:40.000"
         ],
         [
             "qpp-eu-data",
             "requests",
             1.0219178082,
-            "2024-10-07T19:46:26.000"
+            "2024-11-03T23:45:40.000"
         ],
         [
             "qpp-eu-data",
             "slack-sdk",
-            1.8,
-            "2024-10-07T19:46:26.000"
+            1.9095890411,
+            "2024-11-03T23:45:40.000"
         ],
         [
             "qpp-eu-data",
             "unidecode",
             1.2821917808,
-            "2024-10-07T19:46:26.000"
+            "2024-11-03T23:45:40.000"
         ],
         [
             "ab2d-bcda-dpc-platform",

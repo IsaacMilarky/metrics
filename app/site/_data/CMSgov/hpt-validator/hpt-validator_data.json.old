@@ -7,8 +7,8 @@
     "issues_count": 5,
     "open_issues_count": 0,
     "closed_issues_count": 5,
-    "pull_requests_count": 54,
-    "open_pull_requests_count": 1,
+    "pull_requests_count": 55,
+    "open_pull_requests_count": 2,
     "merged_pull_requests_count": 46,
     "closed_pull_requests_count": 7,
     "forks_count": 5,
@@ -36,8 +36,8 @@
     ],
     "new_commit_contributors_by_day_over_last_six_months": [
         [
-            "2024-05-21T00:00:00.000Z",
-            2
+            "2024-05-23T00:00:00.000Z",
+            1
         ],
         [
             "2024-06-11T00:00:00.000Z",

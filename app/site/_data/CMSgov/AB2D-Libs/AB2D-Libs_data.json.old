@@ -28,14 +28,19 @@
         "2024/6": 15,
         "2024/5": 3
     },
-    "new_commit_contributors_by_day_over_last_month": [],
+    "new_commit_contributors_by_day_over_last_month": [
+        [
+            "2024-10-22T00:00:00.000Z",
+            1
+        ]
+    ],
     "new_commit_contributors_by_day_over_last_six_months": [
         [
-            "2024-05-21T00:00:00.000Z",
+            "2024-05-22T00:00:00.000Z",
             1
         ],
         [
-            "2024-05-22T00:00:00.000Z",
+            "2024-06-05T00:00:00.000Z",
             1
         ],
         [

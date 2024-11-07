@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for batcave-wt-sdl-reporting | REPORT-2024-11-03
+title: Open Source at CMS Metrics Report for batcave-wt-sdl-reporting | REPORT-2024-11-07
 permalink: /CMS-Enterprise/batcave-wt-sdl-reporting/
 
 org: CMS-Enterprise
 repo: batcave-wt-sdl-reporting
-reportID: REPORT-2024-11-03
-date_stampThisWeek: 2024-11-03
-date_stampLastWeek: 2024-11-03
+reportID: REPORT-2024-11-07
+date_stampThisWeek: 2024-11-07
+date_stampLastWeek: 2024-11-07
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -87,8 +87,8 @@ date_stampLastWeek: 2024-11-03
       </tr>
       <tr>
         <th scope="row">Watchers</th>
-        <td>7</td>
-        <td>7</td>
+        <td>6</td>
+        <td>6</td>
         <td style="" >0</td>
         <td style="" >0%</td>
       </tr>

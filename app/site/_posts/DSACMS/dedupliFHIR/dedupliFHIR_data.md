@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for dedupliFHIR | REPORT-2024-11-03
+title: Open Source at CMS Metrics Report for dedupliFHIR | REPORT-2024-11-07
 permalink: /DSACMS/dedupliFHIR/
 
 org: DSACMS
 repo: dedupliFHIR
-reportID: REPORT-2024-11-03
-date_stampThisWeek: 2024-11-03
-date_stampLastWeek: 2024-11-03
+reportID: REPORT-2024-11-07
+date_stampThisWeek: 2024-11-07
+date_stampLastWeek: 2024-11-07
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,10 +24,10 @@ date_stampLastWeek: 2024-11-03
     <tbody>
       <tr>
         <th scope="row">Commits</th>
-        <td>487</td>
-        <td>467</td>
-        <td style="color: #45c527" >20</td>
-        <td style="color: #45c527" >4.2%</td>
+        <td>489</td>
+        <td>489</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>
@@ -53,23 +53,23 @@ date_stampLastWeek: 2024-11-03
       <tr>
         <th scope="row">Open Pull Requests</th>
         <td>9</td>
-        <td>14</td>
-        <td style="color: #45c527" >-5</td>
-        <td style="color: #45c527" >43%</td>
+        <td>9</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
-        <td>110</td>
-        <td>104</td>
-        <td style="color: #45c527" >6</td>
-        <td style="color: #45c527" >5.6%</td>
+        <td>111</td>
+        <td>111</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>
-        <td>50</td>
-        <td>47</td>
-        <td style="" >3</td>
-        <td style="" >6.2%</td>
+        <td>51</td>
+        <td>51</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Forks</th>

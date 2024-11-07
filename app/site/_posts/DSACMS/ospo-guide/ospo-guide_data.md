@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for ospo-guide | REPORT-2024-11-03
+title: Open Source at CMS Metrics Report for ospo-guide | REPORT-2024-11-07
 permalink: /DSACMS/ospo-guide/
 
 org: DSACMS
 repo: ospo-guide
-reportID: REPORT-2024-11-03
-date_stampThisWeek: 2024-11-03
-date_stampLastWeek: 2024-11-03
+reportID: REPORT-2024-11-07
+date_stampThisWeek: 2024-11-07
+date_stampLastWeek: 2024-11-07
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,8 +24,8 @@ date_stampLastWeek: 2024-11-03
     <tbody>
       <tr>
         <th scope="row">Commits</th>
-        <td>118</td>
-        <td>118</td>
+        <td>120</td>
+        <td>120</td>
         <td style="" >0</td>
         <td style="" >0%</td>
       </tr>
@@ -52,15 +52,15 @@ date_stampLastWeek: 2024-11-03
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
-        <td>0</td>
-        <td>0</td>
+        <td>1</td>
+        <td>1</td>
         <td style="" >0</td>
         <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
-        <td>21</td>
-        <td>21</td>
+        <td>22</td>
+        <td>22</td>
         <td style="" >0</td>
         <td style="" >0%</td>
       </tr>

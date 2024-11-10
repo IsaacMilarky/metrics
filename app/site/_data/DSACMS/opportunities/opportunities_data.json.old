@@ -89,7 +89,7 @@
     },
     "created_at": "2023-06-29T15:55:54Z",
     "ossf_scorecard": {
-        "date": "2024-11-06T20:00:34Z",
+        "date": "2024-11-06T22:48:11Z",
         "repo": {
             "name": "github.com/DSACMS/opportunities",
             "commit": "9fc14ff61eac943699c5ed4b7328e9cb52e0a8bd"

@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for beneficiary-fhir-data | REPORT-2024-11-07
+title: Open Source at CMS Metrics Report for beneficiary-fhir-data | REPORT-2024-11-10
 permalink: /CMSgov/beneficiary-fhir-data/
 
 org: CMSgov
 repo: beneficiary-fhir-data
-reportID: REPORT-2024-11-07
-date_stampThisWeek: 2024-11-07
-date_stampLastWeek: 2024-11-07
+reportID: REPORT-2024-11-10
+date_stampThisWeek: 2024-11-10
+date_stampLastWeek: 2024-11-10
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,8 +24,8 @@ date_stampLastWeek: 2024-11-07
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>5291</td>
         <td>5290</td>
-        <td>5289</td>
         <td style="color: #45c527" >1</td>
         <td style="color: #45c527" >0.019%</td>
       </tr>
@@ -52,15 +52,15 @@ date_stampLastWeek: 2024-11-07
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
+        <td>17</td>
         <td>14</td>
-        <td>15</td>
-        <td style="color: #45c527" >-1</td>
-        <td style="color: #45c527" >6.9%</td>
+        <td style="" >3</td>
+        <td style="" >19%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>1957</td>
         <td>1956</td>
-        <td>1955</td>
         <td style="color: #45c527" >1</td>
         <td style="color: #45c527" >0.051%</td>
       </tr>

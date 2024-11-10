@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for iv-cbv-payroll | REPORT-2024-11-07
+title: Open Source at CMS Metrics Report for iv-cbv-payroll | REPORT-2024-11-10
 permalink: /DSACMS/iv-cbv-payroll/
 
 org: DSACMS
 repo: iv-cbv-payroll
-reportID: REPORT-2024-11-07
-date_stampThisWeek: 2024-11-07
-date_stampLastWeek: 2024-11-07
+reportID: REPORT-2024-11-10
+date_stampThisWeek: 2024-11-10
+date_stampLastWeek: 2024-11-10
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,10 +24,10 @@ date_stampLastWeek: 2024-11-07
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>503</td>
         <td>501</td>
-        <td>500</td>
-        <td style="color: #45c527" >1</td>
-        <td style="color: #45c527" >0.2%</td>
+        <td style="color: #45c527" >2</td>
+        <td style="color: #45c527" >0.4%</td>
       </tr>
       <tr>
         <th scope="row">Issues</th>
@@ -59,8 +59,8 @@ date_stampLastWeek: 2024-11-07
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>321</td>
         <td>320</td>
-        <td>319</td>
         <td style="color: #45c527" >1</td>
         <td style="color: #45c527" >0.31%</td>
       </tr>

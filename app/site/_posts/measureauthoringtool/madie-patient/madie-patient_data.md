@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for madie-patient | REPORT-2024-11-10
+title: Open Source at CMS Metrics Report for madie-patient | REPORT-2024-11-17
 permalink: /measureauthoringtool/madie-patient/
 
 org: measureauthoringtool
 repo: madie-patient
-reportID: REPORT-2024-11-10
-date_stampThisWeek: 2024-11-10
-date_stampLastWeek: 2024-11-10
+reportID: REPORT-2024-11-17
+date_stampThisWeek: 2024-11-17
+date_stampLastWeek: 2024-11-17
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,8 +24,8 @@ date_stampLastWeek: 2024-11-10
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>3831</td>
         <td>3825</td>
-        <td>3819</td>
         <td style="color: #45c527" >6</td>
         <td style="color: #45c527" >0.16%</td>
       </tr>
@@ -53,16 +53,16 @@ date_stampLastWeek: 2024-11-10
       <tr>
         <th scope="row">Open Pull Requests</th>
         <td>18</td>
-        <td>16</td>
-        <td style="" >2</td>
-        <td style="" >12%</td>
+        <td>18</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>699</td>
         <td>696</td>
-        <td>694</td>
-        <td style="color: #45c527" >2</td>
-        <td style="color: #45c527" >0.29%</td>
+        <td style="color: #45c527" >3</td>
+        <td style="color: #45c527" >0.43%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>

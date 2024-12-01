@@ -1,13 +1,13 @@
 ---
 layout: repo-report
-title: Open Source at CMS Metrics Report for macpro-mdct-mcr | REPORT-2024-11-24
+title: Open Source at CMS Metrics Report for macpro-mdct-mcr | REPORT-2024-12-01
 permalink: /Enterprise-CMCS/macpro-mdct-mcr/
 
 org: Enterprise-CMCS
 repo: macpro-mdct-mcr
-reportID: REPORT-2024-11-24
-date_stampThisWeek: 2024-11-24
-date_stampLastWeek: 2024-11-24
+reportID: REPORT-2024-12-01
+date_stampThisWeek: 2024-12-01
+date_stampLastWeek: 2024-12-01
 ---
 <div class="summary-table">
   <table class="usa-table usa-table--borderless">
@@ -24,8 +24,8 @@ date_stampLastWeek: 2024-11-24
     <tbody>
       <tr>
         <th scope="row">Commits</th>
+        <td>1505</td>
         <td>1500</td>
-        <td>1495</td>
         <td style="color: #45c527" >5</td>
         <td style="color: #45c527" >0.33%</td>
       </tr>
@@ -52,24 +52,24 @@ date_stampLastWeek: 2024-11-24
       </tr>
       <tr>
         <th scope="row">Open Pull Requests</th>
+        <td>10</td>
         <td>9</td>
-        <td>4</td>
-        <td style="" >5</td>
-        <td style="" >77%</td>
+        <td style="" >1</td>
+        <td style="" >11%</td>
       </tr>
       <tr>
         <th scope="row">Merged Pull Requests</th>
+        <td>1304</td>
         <td>1298</td>
-        <td>1293</td>
-        <td style="color: #45c527" >5</td>
-        <td style="color: #45c527" >0.39%</td>
+        <td style="color: #45c527" >6</td>
+        <td style="color: #45c527" >0.46%</td>
       </tr>
       <tr>
         <th scope="row">Closed Pull Requests</th>
         <td>251</td>
-        <td>248</td>
-        <td style="" >3</td>
-        <td style="" >1.2%</td>
+        <td>251</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
       <tr>
         <th scope="row">Forks</th>
@@ -88,9 +88,9 @@ date_stampLastWeek: 2024-11-24
       <tr>
         <th scope="row">Watchers</th>
         <td>12</td>
-        <td>11</td>
-        <td style="color: #45c527" >1</td>
-        <td style="color: #45c527" >8.7%</td>
+        <td>12</td>
+        <td style="" >0</td>
+        <td style="" >0%</td>
       </tr>
     </tbody>
   </table>
